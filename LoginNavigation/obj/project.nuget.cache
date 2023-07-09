@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mpBY3OTy0PR9Z0dNlizh7K+I0K6q+6WBZzY7nrZ8D+Y+P856I77zLKs7UHE2eCwn9LT9OEWC7pqu1yCJRfcCvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrew\\source\\repos\\LoginNavigation\\LoginNavigation\\LoginNavigation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrew\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
